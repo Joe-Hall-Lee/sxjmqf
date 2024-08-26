@@ -1,0 +1,14 @@
+这个数据集有11个变量：
+  1. Sample code number      
+  2. Clump Thickness （肿块厚度）        
+  3. Uniformity of Cell Size （细胞大小）   
+  4. Uniformity of Cell Shape  （细胞形状） 
+  5. Marginal Adhesion    （边缘粘度）    
+  6. Single Epithelial Cell Size（单独上皮细胞大小）
+  7. Bare Nuclei  （裸细胞核）        
+  8. Bland Chromatin（淡染色质）         
+  9. Normal Nucleoli （正常细胞核）       
+  10. Mitoses     （分裂激素）          
+  11. Class（肿瘤的类别：良性和恶性肿瘤）
+
+第七个变量上有16个缺失值，用?表示。
