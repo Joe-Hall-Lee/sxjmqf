@@ -31,7 +31,3 @@ beq = 12;
 lb = zeros(3, 1);
 ub = [+inf; +inf; 1]; % x(3) 为 0-1 变量
 [x, fval] = intlinprog(c, intcon, A, b, Aeq, beq, lb, ub)
-
-
-% % 注意：代码文件仅供参考，一定不要直接用于自己的数模论文中
-% % 国赛对于论文的查重要求非常严格，代码雷同也算作抄袭
